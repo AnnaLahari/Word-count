@@ -42,10 +42,8 @@ wordcount(filename)
 ```
 ### OUTPUT:
 
-![image](https://github.com/AnnaLahari/Word-count/assets/149365425/d8628b61-eb02-4a47-8e36-71b2ccc6c0eb)
-
 ![image](https://github.com/AnnaLahari/Word-count/assets/149365425/9ab795c4-f4da-4a89-b1d5-bb78d37e1597)
 
-
+![image](https://github.com/AnnaLahari/Word-count/assets/149365425/d8628b61-eb02-4a47-8e36-71b2ccc6c0eb)
 ## RESULT:
 Thus the program is written to find the word count from a text.
